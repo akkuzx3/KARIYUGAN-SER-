@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=5513F7&width=435&lines=ㅤㅤㅤㅤKARIYUGAN+XER+BUG+BOT" alt="Typing SVG" /></a>
-  
+ 
 # FOR TERMUX COMMENT 
       1.apt upgrade
 
@@ -32,5 +32,3 @@
      13. npm start
 
 `Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
-
-<a href="https://github.com/Sathanic666/SATHANIC/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
