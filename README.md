@@ -9,3 +9,31 @@
 3. 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗨𝗚 𝗕𝗢𝗧 + 𝗗𝗘𝗩𝗜𝗖𝗘 𝗛𝗢𝗠𝗘 𝗙𝗥𝗘𝗘𝗭𝗘 𝗩1 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
 4. 𝗜𝗣𝗛𝗢𝗡𝗘 𝗖𝗥𝗘𝗦𝗛𝗘𝗥 + 𝗣𝗔𝗡𝗡𝗘𝗟 𝗞𝗜𝗟𝗟 { ᵈᵉᵛⁱᶜᵉ ᵇᵒᵒᵗ ᵐᵒᵈᵉ } 𝘃5 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
 5.
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
+
+ cd your storage file name 
+ 
+ yarn install
+ 
+ npm start
+
+`Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
+
