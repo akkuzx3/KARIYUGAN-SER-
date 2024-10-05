@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=5513F7&width=435&lines=ㅤㅤㅤㅤKARIYUGAN+XER+BUG+BOT" alt="Typing SVG" /></a>
   
-
+# ㅤㅤFOR TERMUX COMMENT 
       1.apt upgrade
 
       2.pkg update && pkg upgrade
