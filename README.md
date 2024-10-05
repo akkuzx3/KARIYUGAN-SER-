@@ -32,3 +32,5 @@
      13. npm start
 
 `Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
+
+<a href="https://github.com/Sathanic666/SATHANIC/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
