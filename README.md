@@ -4,36 +4,31 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=5513F7&width=435&lines=ㅤㅤㅤㅤKARIYUGAN+XER+BUG+BOT" alt="Typing SVG" /></a>
   
-1. 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗨𝗜 𝗖𝗥𝗘𝗦𝗛𝗘𝗥  𝗩3 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘 
-2. 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗕𝗢𝗢𝗧 𝗖𝗥𝗘𝗔𝗞 𝗩4 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘 
-3. 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗨𝗚 𝗕𝗢𝗧 + 𝗗𝗘𝗩𝗜𝗖𝗘 𝗛𝗢𝗠𝗘 𝗙𝗥𝗘𝗘𝗭𝗘 𝗩1 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
-4. 𝗜𝗣𝗛𝗢𝗡𝗘 𝗖𝗥𝗘𝗦𝗛𝗘𝗥 + 𝗣𝗔𝗡𝗡𝗘𝗟 𝗞𝗜𝗟𝗟 { ᵈᵉᵛⁱᶜᵉ ᵇᵒᵒᵗ ᵐᵒᵈᵉ } 𝘃5 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
-5.
-apt upgrade
 
-pkg update && pkg upgrade
+      1.apt upgrade
 
-pkg install bash
+      2.pkg update && pkg upgrade
 
- pkg install git
+      3.pkg install bash
 
- pkg install nodejs
+      4.pkg install git
 
-pkg install ffmpeg
+      5.pkg install nodejs
 
-pkg install wget
+      6.pkg install ffmpeg
 
-pkg install imagemagick
+      7.pkg install wget
 
- pkg install yarn
+      8.pkg install imagemagick
 
-termux-setup-storage
+      9.pkg install yarn
 
- cd your storage file name 
+     10.termux-setup-storage
+
+     11.cd your storage file name 
  
- yarn install
+     12 .yarn install
  
- npm start
+     13. npm start
 
 `Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
-
