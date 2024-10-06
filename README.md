@@ -16,30 +16,30 @@
  <a href="https://github.com/akkuzx3/KARIYUGAN-SER-"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK KARIYUGAN XER REPO" width="100"></a>
  
 # FOR TERMUX COMMENT 
- ㅤㅤㅤㅤㅤ     1.apt upgrade
+   ㅤ  1.apt upgrade
 
-ㅤㅤㅤㅤㅤ      2.pkg update && pkg upgrade
+      2.pkg update && pkg upgrade
 
-ㅤㅤㅤㅤㅤ      3.pkg install bash
+      3.pkg install bash
 
-ㅤㅤㅤㅤㅤ      4.pkg install git
+      4.pkg install git
 
-ㅤㅤㅤㅤㅤ      5.pkg install nodejs
+      5.pkg install nodejs
 
-ㅤㅤㅤㅤㅤ      6.pkg install ffmpeg
+      6.pkg install ffmpeg
 
- ㅤㅤㅤㅤㅤ     7.pkg install wget
+      7.pkg install wget
 
-  ㅤㅤㅤㅤㅤ    8.pkg install imagemagick
+      8.pkg install imagemagick
 
-ㅤㅤㅤㅤㅤ      9.pkg install yarn
+      9.pkg install yarn
 
- ㅤㅤㅤㅤㅤ    10.termux-setup-storage
+     10.termux-setup-storage
 
-  ㅤㅤㅤㅤㅤ   11.cd your storage file name 
+     11.cd your storage file name 
  
-ㅤㅤㅤㅤㅤ     12 .yarn install
+     12 .yarn install
  
- ㅤㅤㅤㅤㅤ    13. npm start
+     13. npm start
 
 `Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
