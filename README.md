@@ -7,8 +7,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-
 ㅤㅤㅤㅤ
     <br>
 <br>
