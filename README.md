@@ -43,7 +43,7 @@
 
      10.termux-setup-storage
 
-     11.cd your storage file name 
+     11.cd / storage/emulated/0/ folder name 
  
      12 .yarn install
  
