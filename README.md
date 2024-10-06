@@ -1,4 +1,4 @@
-# ᏦᏗᏒᎥᎩᏬᎶᏗᏁ ᗯᏂᗩᏖᏕᗩᎮᎮ ᏰᎧᏖ Ꮇᗪ 🌟🌟
+# ᏦᏗᏒᎥᎩᏬᎶᏗᏁ ᗯᏂᗩᏖᏕᗩᎮᎮ ᏰᎧᏖ Ꮇᗪ 🌟
 <img src="https://ik.imagekit.io/eypz/1728217952540_5UrCFwSZG.png" height="500" width="100%">
 
 <p align="center">
