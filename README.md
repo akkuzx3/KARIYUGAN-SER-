@@ -2,7 +2,7 @@
 <img src="https://ik.imagekit.io/eypz/1728147370339_LrhbxIUmI.png" height="500" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=E89EB8&width=435&lines=ㅤㅤㅤㅤ𝘒𝘈𝘙𝘐𝘠𝘜𝘎𝘈𝘕+𝘟𝘌𝘙+𝘉𝘜𝘎+𝘉𝘖𝘛" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=ㅤㅤㅤㅤ𝘒𝘈𝘙𝘐𝘠𝘜𝘎𝘈𝘕+𝘟𝘌𝘙+𝘉𝘜𝘎+𝘉𝘖𝘛" alt="Typing SVG" /></a>
 
 # FORK THIS REPO
  
