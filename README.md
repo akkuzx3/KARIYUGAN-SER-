@@ -1,10 +1,6 @@
 ####    𝗞𝗔𝗥𝗜𝗬𝗨𝗚𝗔𝗡 𝗫𝗘𝗥 𝗠𝗗 𝗕𝗢𝗧 🌟  ###
 ᴋᴀʀɪʏᴜɢᴀɴ xᴇʀ ᴍᴅ ʙᴏᴛ ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 
 
-<img src="https://ik.imagekit.io/eypz/1728217952540_5UrCFwSZG.png" height="500" width="100%">
-dme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=𝙆𝘼𝙍𝙄𝙔𝙐𝙂𝘼𝙉+𝙈𝘿+𝘽𝘼𝙎𝙀𝘿+𝙊𝙉+𝙎𝙉𝙀𝙃𝘼
-<p align="center">
-
     
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=𝙆𝘼𝙍𝙄𝙔𝙐𝙂𝘼𝙉+𝙈𝘿+𝘽𝘼𝙎𝙀𝘿+𝙊𝙉+𝙎𝙉𝙀𝙃𝘼" alt="Typing SVG" /></a>
