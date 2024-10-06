@@ -4,6 +4,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=ㅤㅤㅤㅤ𝙆𝘼𝙍𝙄𝙔𝙐𝙂𝘼𝙉+𝙓𝙀𝙍+𝘽𝙐𝙂+𝘽𝙊𝙏" alt="Typing SVG" /></a>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+
+
 
 <p align="center">
 <a href="https://github.com/akkuzx3/KARIYUGAN-SER-">
