@@ -1,6 +1,27 @@
-#### JARVIS MD WHATSAPP BOT
-jarvis md is Multi Device whatsapp bot based on X-Asena
-***
+####    𝗞𝗔𝗥𝗜𝗬𝗨𝗚𝗔𝗡 𝗫𝗘𝗥 𝗠𝗗 𝗕𝗢𝗧 🌟  ###
+ᴋᴀʀɪʏᴜɢᴀɴ xᴇʀ ᴍᴅ ʙᴏᴛ ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 
+
+
+<img src="https://i.imgur.com/v8YeCcO.jpeg" height="500" width="100%">
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=𝙆𝘼𝙍𝙄𝙔𝙐𝙂𝘼𝙉+𝙈𝘿+𝘽𝘼𝙎𝙀𝘿+𝙊𝙉+𝙎𝙉𝙀𝙃𝘼" alt="Typing SVG" /></a>
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
+
+   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DVK3GiA43iv5H3mjXtM8hV)
+  <div align="center">
+
+# FORK THIS REPO
+ 
+ <a href="https://github.com/akkuzx3/KARIYUGAN-SER-"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK KARIYUGAN XER REPO" width="100"></a>
+ 
 
 ### KARIYUGAN XER MD BOT
 
@@ -57,35 +78,3 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 
 <details close>
     
-<summary>Read More</summary>
-
-### 1. Customise Bot
-
- Go to Environment Variables and editi and use
-
-### 2. To Run Bot 24×7
-    
- Copy the web url and add to the Environment Variables as SERVERURL
-   
-
-  </details>
- 
-
-#### THANKS TO
-- [INRL ❤️](https://github.com/inrl-official) <br>
-- [X-Electra](https://github.com/inrl-official) for [X-Asena](https://github.com/X-Electra/X-Asena)
-
-#### JARVIS SUPPORT 
-
-
-<details close>
-<summary>Read More</summary>
-    <br>
-<a href="https://whatsapp.com/channel/0029Va9dOax4o7qDb6pVvp34"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-    <br>
-<br>
-<a href="https://chat.whatsapp.com/HCRUrl9kCvEL6v7OhmG5BR"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <br>
-<br>
-<a href='https://github.com/IRON-M4N/Jarvis-MD-Plugins' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
