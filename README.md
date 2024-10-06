@@ -1,5 +1,6 @@
 <img border-radius: 30px src="https://i.imgur.com/6oYvCER.jpeg" width="1000" height="300"/>
 
+
 # KARIYUGAN XER BUG BOT
 <img src="https://ik.imagekit.io/eypz/1728147370339_LrhbxIUmI.png" height="500" width="100%">
 
