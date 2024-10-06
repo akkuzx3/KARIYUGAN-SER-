@@ -7,7 +7,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤ
+ㅤ
+ㅤㅤㅤ
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DVK3GiA43iv5H3mjXtM8hV)
