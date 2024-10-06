@@ -50,3 +50,11 @@
      13. npm start
 
 `Please KARIYUGAN XER BUG BOT is for scammers only. Don't use it to harm innocent people`
+
+
+
+<p align="center">
+<a href="https://github.com/Sathanic666/SATHANIC-MD">
+    <img <psrc="https://ik.imagekit.io/eypz/1728213088407_EFJZ4fMXy.png"  width="700px">
+</a>
+<hr>
