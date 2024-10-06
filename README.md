@@ -19,7 +19,9 @@
  <a href="https://github.com/akkuzx3/KARIYUGAN-SER-"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK KARIYUGAN XER REPO" width="100"></a>
 
 
-  #FOR TERMUX COMMENT 
+ # FOR TERMUX COMMENT 
+
+ 
 
       1.apt upgrade
 
