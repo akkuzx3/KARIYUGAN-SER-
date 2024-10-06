@@ -5,11 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=FF00FF&width=435&lines=ㅤㅤㅤ𝗞𝗔𝗥𝗜𝗬𝗨𝗚𝗔𝗡+𝗫𝗘𝗥+𝗕𝗨𝗚+𝗕𝗢𝗧" alt="Typing SVG" /></a>
 
  
- ##📢 Guide
+ 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://github.com/akkuzx3/KARIYUGAN-SER-)](https://chat.whatsapp.com/DVK3GiA43iv5H3mjXtM8hV)
   <div align="center">
 
 
