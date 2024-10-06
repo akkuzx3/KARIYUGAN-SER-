@@ -14,7 +14,7 @@
   <div align="center">
 
 
-#  FORK THIS REPO 🌟
+#   FORK THIS REPO 🌟
  
  <a href="https://github.com/akkuzx3/KARIYUGAN-SER-"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK KARIYUGAN XER REPO" width="100"></a>
 
