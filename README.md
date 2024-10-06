@@ -1,4 +1,6 @@
-# ᏦᏗᏒᎥᎩᏬᎶᏗᏁ ᗯᏂᗩᏖᏕᗩᎮᎮ ᏰᎧᏖ Ꮇᗪ 🌟
+####    ᴋᴀʀɪʏᴜɢᴀɴ ᴍᴅ  ###
+ᴋᴀʀɪʏᴜɢᴀɴ xᴇʀ ᴍᴅ ʙᴏᴛ ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 
+
 <img src="https://ik.imagekit.io/eypz/1728217952540_5UrCFwSZG.png" height="500" width="100%">
 
 <p align="center">
