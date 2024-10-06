@@ -1,4 +1,4 @@
-# KARIYUGAN XER BUG BOT
+# ᏦᏗᏒᎥᎩᏬᎶᏗᏁ ᏬᎥ ፈᏒᏋᏕᏂᏋᏒ🌟
 <img src="https://ik.imagekit.io/eypz/1728147370339_LrhbxIUmI.png" height="500" width="100%">
 
 <p align="center">
